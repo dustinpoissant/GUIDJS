@@ -8,7 +8,10 @@ var GUID = (function(){
     } while(!GUID.register(guid));
     return guid;
   };
-  GUID.version = "1.1.0";
+  GUID.create = function(){
+    return GUID();
+  };
+  GUID.version = "1.2.0";
   GUID.list = [];
   GUID.exists = function(guid){
     return (GUID.list.indexOf(guid)>-1);

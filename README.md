@@ -1,13 +1,15 @@
 # GUID.JS
 
-> *1.1.0*
+> *1.2.0*
 
 A simple script for generating a Globally Unique Identifiers (GUID) in JavaScript.
 
 ## Create a new GUID
-Use the ``GUID`` function to create a new GUID.
+Use the `GUID` function (or `GUID.create`) to create a new GUID.
 ```JavaScript
 var myGuid = GUID();
+// or
+var myGuid = GUID.create();
 ```
 
 ## Get a list of all GUIDs
