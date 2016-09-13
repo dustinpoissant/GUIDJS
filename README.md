@@ -37,3 +37,11 @@ Use `GUID.version` to check the version number of this script.
 ```JavaScript
 GUID.version
 ```
+
+#License
+
+This software is property of [**Dustin Poissant**](http://github.com/dustinpoissat).
+
+This software is distributed AS-IS with no warranties/guarantees either expressed or implied.
+
+This software is Licensed under [CC BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
