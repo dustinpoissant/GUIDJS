@@ -40,7 +40,7 @@ GUID.version
 
 #License
 
-This software is property of [**Dustin Poissant**](http://github.com/dustinpoissat).
+This software is property of [**Dustin Poissant**](http://github.com/dustinpoissant).
 
 This software is distributed AS-IS with no warranties/guarantees either expressed or implied.
 
