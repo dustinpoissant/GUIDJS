@@ -19,7 +19,7 @@ GUID.list
 ```
 
 ## Check if a GUID exists
-Use the `GUID.exists` method to check if a GUID already exists.
+Use the `GUID.exists(guid)` method to check if a GUID already exists.
 ```JavaScript
 GUID.exists("885b8819-5bb3-467b-9e6b-62ca997b55a5");
 ```
