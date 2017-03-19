@@ -1,6 +1,6 @@
 # GUID.JS
 
-> *1.3.0*
+> *1.4.0*
 
 A simple script for generating a Globally Unique Identifiers (GUID) in JavaScript.
 

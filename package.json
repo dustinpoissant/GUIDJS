@@ -1,0 +1,44 @@
+{
+  "author": {
+    "name": "Dustin Poissant",
+    "email": "dustinpoissant@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dustinpoissant/GUIDJS/issues"
+  },
+  "dependencies": {},
+  "description": "Generate Golbally Unique Identifiers (GUIDs) in JavaScript.",
+  "devDependencies": {},
+  "directories": {
+    "doc": "docs"
+  },
+  "dist": {
+    "shasum": "a8221d43735fd52b783d09f481cbe13b02c4f4cd",
+    "tarball": "https://registry.npmjs.org/guidjs/-/guidjs-1.3.3.tgz"
+  },
+  "gitHead": "66da07b4a419cb56345131825b0949c394d2e6a2",
+  "homepage": "https://github.com/dustinpoissant/GUIDJS#readme",
+  "keywords": [
+    "guid",
+    "javascript"
+  ],
+  "license": "CC-BY-NC-SA-3.0",
+  "main": "GUID.js",
+  "maintainers": [
+    {
+      "name": "dustinpoissant",
+      "email": "dustinpoissant@gmail.com"
+    }
+  ],
+  "name": "guidjs",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinpoissant/GUIDJS.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.4.1"
+}
