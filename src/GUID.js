@@ -1,4 +1,4 @@
-var GUID = (function(){
+window.GUID = (function(){
   function GUID(){
     do {
       var guid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
@@ -8,10 +8,10 @@ var GUID = (function(){
     } while(!GUID.register(guid));
     return guid;
   };
+  GUID.version = "1.4.2";
   GUID.create = function(){
     return GUID();
   };
-  GUID.version = "1.3.0";
   GUID._list = {};
   Object.defineProperty(GUID, "list", {
     get: function(){

@@ -2,4 +2,4 @@
 .gitignore
 .gitattributes
 .nojekyll
-docs
+node_modules/
